@@ -4,27 +4,27 @@ ID:CT12DS1833
 Domain: PYTHON PROGRAMMING
 Duration: JULY TO SEPTEMBER
 Mentor: MUZAMMIL AHMED
-
 Overview Of The Project:
-The project aims to develop a Python program that enables users to track and manage student grades efficiently. The program will allow users to input grades for different subjects or assignments, calculate the average grade, and display the overall grade along with additional information such as letter grade or GPA.
+This project involves creating a basic calculator program in Python that takes two numbers and an operation as input from the user, performs the selected operation, and displays the result.
 
-Objective
-The primary objective of this project is to create a user-friendly Python program that can accurately track and manage student grades, providing a comprehensive overview of their academic performance.
+OBJECTIVE:
+The objective of this project is to create a simple calculator program that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-Key Activities
-1.Designing the Program Structure: Define the program's architecture, including the data structures and functions required to store and process student grades.
-2.Implementing Grade Input and Storage: Develop a user interface to input grades for different subjects or assignments and store them in a suitable data structure.
-3.Calculating Average Grade: Create a function to calculate the average grade based on the input grades.
-4.Determining Letter Grade or GPA: Develop a function to convert the average grade into a letter grade or GPA, depending on the grading system used.
-5.Displaying Results: Design a user-friendly output to display the overall grade, letter grade or GPA, and any additional relevant information.
+KEY ACTIVITIES:
+1.Define functions for each operation (addition, subtraction, multiplication, division)
+2.Prompt the user to enter two numbers and choose an operation
+3.Perform the selected operation using the defined functions
+4.Display the result to the user
 
-Technologies Used
-1.Python: The primary programming language used for developing the program.
-2.Data Structures: Lists, dictionaries, or other suitable data structures will be used to store and process student grades.
-3.Functions: Modular functions will be created to perform specific tasks, such as calculating the average grade and determining the letter grade or GPA.
+TECHNOLOGIES USED:
+1.Python programming language
+2.Built-in input() function for user input
+3.Built-in print() function for output
+4.Conditional statements (if-elif-else) for operation selection
 
-Key Insights
-1.Grading Systems: The program will need to accommodate different grading systems, such as letter grades (A-F) or GPA (4.0 scale).
-2.Data Validation: Input validation will be essential to ensure that users enter valid grades and prevent errors in the program.
-3.User Experience: A user-friendly interface will be designed to make it easy for users to input grades and access the results.
+KEY INSIGHTS:
+1.The program uses functions to encapsulate each operation, making the code more modular and reusable.
+2.The program uses conditional statements to select the correct operation based on the user's input.
+3.The program handles division by zero by returning an error message.
+4.The program uses the float data type to allow for decimal numbers as input.
 
